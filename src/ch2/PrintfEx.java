@@ -1,6 +1,6 @@
 package ch2;
 
-public class PrintfEx1 {
+public class PrintfEx {
     public static void main(String[] args) {
         byte b = 1;
         short s = 2;
